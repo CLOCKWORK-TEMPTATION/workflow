@@ -1,4 +1,6 @@
 # Product Lifecycle Workflow Agent | وكيل وركفلو دورة حياة المنتج
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCLOCKWORK-TEMPTATION%2Fworkflow.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FCLOCKWORK-TEMPTATION%2Fworkflow?ref=badge_shield)
+
 
 وكيل ذكي مبني على **DeepAgents + LangChain** لإدارة دورة حياة تطوير المنتج الكاملة.
 
@@ -180,3 +182,6 @@ const result = await agent.invoke({
 ## 📜 License
 
 MIT
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCLOCKWORK-TEMPTATION%2Fworkflow.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FCLOCKWORK-TEMPTATION%2Fworkflow?ref=badge_large)
